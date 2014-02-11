@@ -1,5 +1,4 @@
-
-# Template Puppet Module for GIMP
+# Puppet Module for GIMP
 
 Install [GIMP](http://gimp.org/), the GNU Image Manipulation Program
 
